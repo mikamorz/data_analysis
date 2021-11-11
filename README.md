@@ -10,7 +10,7 @@
 
 ### Pandas Tutorials
 
-* [Using Pandas pipe function to improve code readability](https://towardsdatascience.com/using-pandas-pipe-function-to-improve-code-readability-96d66abfaf8) | [:orange_book: Notebook](data-analysis/001-pandad-pipe-function/pandas-pipe-to-improve-code-readability.ipynb)
+* [Using Pandas pipe function to improve code readability](https://towardsdatascience.com/using-pandas-pipe-function-to-improve-code-readability-96d66abfaf8) | [:orange_book: Notebook](https://github.com/BindiChen/machine-learning/blob/master/data-analysis/001-pandad-pipe-function/pandas-pipe-to-improve-code-readability.ipynb)
 * [Using Pandas method chaining to improve code readability](https://medium.com/@bindiatwork/using-pandas-method-chaining-to-improve-code-readability-d8517c5626ac) | [:orange_book: Notebook](data-analysis/007-method-chaining/method-chaining.ipynb)
 * [What is One-Hot Encoding and how to use Pandas get_dummies function](https://towardsdatascience.com/what-is-one-hot-encoding-and-how-to-use-pandas-get-dummies-function-922eb9bd4970) | [:orange_book: Notebook](data-analysis/002-one-hot-encoding/one-hot-encoding.ipynb)
 * [7 setups you should include at the beginning of a data science project](https://medium.com/@bindiatwork/7-setups-you-should-include-at-the-beginning-of-a-data-science-project-8232ab10a1ec) | [:orange_book: Notebook](data-analysis/004-7-setups-for-a-data-science-project/7-setups.ipynb)
